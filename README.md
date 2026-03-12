@@ -8,9 +8,9 @@
 
 **P**rotocol  *  **A**nalysis  *  **N**etwork  *  **O**bserver  *  **P**ersistent  *  **T**racking  *  **I**ntelligence  *  **A**gent
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-DESCU.vercel.app-f472b6?style=for-the-badge)](https://ai-bot-project-lime.vercel.app)
-[![Agent Registry](https://img.shields.io/badge/Registry-12_Agents_Live-f472b6?style=for-the-badge)](https://ai-bot-project-lime.vercel.app/registry)
-[![Agent Profile](https://img.shields.io/badge/Agent_Profile-DESCU-deeppink?style=for-the-badge)](https://ai-bot-project-lime.vercel.app/agent)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-DESCU.vercel.app-f472b6?style=for-the-badge)](https://descu.tech)
+[![Agent Registry](https://img.shields.io/badge/Registry-12_Agents_Live-f472b6?style=for-the-badge)](https://descu.tech/registry)
+[![Agent Profile](https://img.shields.io/badge/Agent_Profile-DESCU-deeppink?style=for-the-badge)](https://descu.tech/agent)
 
 [![Solana](https://img.shields.io/badge/Chain-Solana_Mainnet-f472b6?style=flat-square&logo=solana)](https://solana.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
@@ -74,10 +74,10 @@ Next step:    one suggested follow-up action
 
 | Route | Description |
 |---|---|
-| [`/`](https://ai-bot-project-lime.vercel.app) | Chat interface -- query DESCU directly |
-| [`/agent`](https://ai-bot-project-lime.vercel.app/agent) | DESCU public identity, skills, and reputation score |
-| [`/registry`](https://ai-bot-project-lime.vercel.app/registry) | Live Solana agent registry with reputation rankings |
-| [`/manifest`](https://ai-bot-project-lime.vercel.app/manifest) | OpenClaw-compatible skill manifest |
+| [`/`](https://descu.tech) | Chat interface -- query DESCU directly |
+| [`/agent`](https://descu.tech/agent) | DESCU public identity, skills, and reputation score |
+| [`/registry`](https://descu.tech/registry) | Live Solana agent registry with reputation rankings |
+| [`/manifest`](https://descu.tech/manifest) | OpenClaw-compatible skill manifest |
 
 ---
 
@@ -170,7 +170,7 @@ Next step:    one suggested follow-up action
 ## Quick Start
 
 ```bash
-git clone https://github.com/genis190/AGENT
+git clone https://github.com/4ll4ncrypto/AGENT
 cd AGENT
 npm install
 cp .env.example .env
