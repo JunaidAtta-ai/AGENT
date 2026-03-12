@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/3ea1f474-8065-496d-a125-456553e71e28.png" alt="DESCU Banner" width="800"/>
+  
 </div>
 
 <div align="center">
