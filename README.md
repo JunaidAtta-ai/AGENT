@@ -8,7 +8,7 @@
 
 # ◈ NODELINK AGENT
 
-### *by Mike drop*
+
 
 **N**eural  ·  **O**n-chain  ·  **D**ecentralized  ·  **E**xecution  ·  **L**ayer  ·  **I**ntelligence  ·  **N**etwork  ·  **G**rid
 
@@ -304,7 +304,7 @@ NODELING AGENT
 
 <div align="center">
 
-**MIT License** · Built on Solana · Powered by xAI Grok · Made by **Mike drop**
+**MIT License** · Built on Solana · Powered by xAI Grok ·
 
 ```
 ◈ NODELING AGENT — always on-chain, never offline
